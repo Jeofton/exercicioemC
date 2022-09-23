@@ -1,1 +1,3 @@
 # exercicioemC
+
+Blá, blá.
